@@ -1,6 +1,8 @@
 # login-and-signup-complete
 These projects may defines about the login and signup  and register ,subscribe email through templates using Django.
 
+http://127.0.0.1:8000 
+
 SIGNUP : -
 ------------------------
 ![signup](https://user-images.githubusercontent.com/34789553/61031833-e7965600-a3dd-11e9-9850-346c45a2afba.png)
