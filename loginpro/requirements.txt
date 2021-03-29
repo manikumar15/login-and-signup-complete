@@ -9,7 +9,7 @@ numpy==1.15.4
 Pillow==5.3.0
 protobuf==3.6.1
 psycopg2==2.8.2
-Pygments==2.4.0
+Pygments==2.7.4
 pyparsing==2.1.10
 pytz==2018.9
 requests==2.21.0
