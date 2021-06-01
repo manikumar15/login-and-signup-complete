@@ -15,7 +15,7 @@ pytz==2018.9
 requests==2.21.0
 six==1.10.0
 uritemplate==3.0.0
-urllib3==1.24.3
+urllib3==1.26.5
 xhtml2pdf==0.2.3
 PyPDF2==1.26.0
 PyScreeze==0.1.18
