@@ -17,7 +17,7 @@ six==1.10.0
 uritemplate==3.0.0
 urllib3==1.24.3
 xhtml2pdf==0.2.3
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 PyScreeze==0.1.18
 python-dateutil==2.7.5
 python-git==2018.2.1
